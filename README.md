@@ -1,2 +1,4 @@
 # FinancialInnovationsLab
-App for Financial Innovations Lab 
+Financial Services Innovations Lab at Georgia Tech, Programming Task for Summer Research 
+App Demo included in repository
+
